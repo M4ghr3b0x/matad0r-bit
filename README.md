@@ -1,4 +1,4 @@
-# 👨‍💻 ExploitEdge
+# 👨‍💻 MR ALI  | MATADOR MAGHRIBI
 
 🔐 **Cybersecurity Specialist** | 🛡️ **Penetration Tester** | 📊 **Security Researcher**  
 💻 **Programmer & System Deconstructor** | 🌐 **OSINT Explorer** | 📱 **App Developer**
@@ -51,4 +51,4 @@ Documenting my journey since 2018 and sharing daily content to help others accel
 ---
 
 > “Cybersecurity is not just a job, it’s a mindset. Break it. Understand it. Secure it.”  
-> — ExploitEdge
+> — ALI
