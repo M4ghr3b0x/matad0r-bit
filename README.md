@@ -47,7 +47,7 @@ Documenting my journey since 2020 and sharing daily content to help others accel
 ## 📡 Contact
 
 - 💬 Telegram: [t.me/maghrib001](https://t.me/maghrib001)  
-- 💼 GitHub: [@matad00rma](https://github.com/matad00rma)
+- 💼 GitHub: [@matad0r-bit](https://github.com/matad0r-bit)
 
 ---
 
