@@ -7,10 +7,9 @@
 
 ## 🧠 About Me
 
-A 20-year-old cybersecurity professional from Morocco. Passionate about ethical hacking, penetration testing, and securing digital systems. Specialized in deconstructing and reconstructing digital infrastructures, with a strong focus on resilience, optimization, and security.
+A 22-year-old cybersecurity professional from Morocco. Passionate about ethical hacking, penetration testing, and securing digital systems. Specialized in deconstructing and reconstructing digital infrastructures, with a strong focus on resilience, optimization, and security.
 
-Documenting my journey since 2020 and sharing daily content to help others accelerate their cybersecurity careers.
-
+Documenting my journey since 2018 and sharing daily content to help others accelerate their cybersecurity careers.
 ---
 
 ## 🧰 Skills
